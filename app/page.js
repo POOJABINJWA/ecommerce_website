@@ -3,17 +3,18 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.css"; 
 import Navbaar from "./navbaar";
 import Header from "./Header"
+import 	Sliderbox from "./sliderbox";
 import "./globals.css";
 const Page = () => {
   return (
     <>
       <Navbaar/><br/>
       <Header/><br/>
+      <Sliderbox/><br/>
     </>
   );
 };
 export default Page;
-
 	
 	
 	
