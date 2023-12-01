@@ -2,6 +2,7 @@ const App=()=>{
 	return(
 	<>
 	<h2> pooja binjwa</h2>
+	<h1 >hello world </h1>
 	
 	</>
 	)
