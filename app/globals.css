@@ -34,3 +34,34 @@ body {
 	margin-left:1198px;
 	
 }
+
+.Women {
+  	background-color: yellow;
+  	height: 1000px;
+  	width: 2000px;
+}
+
+.jewellery {
+  	background-color: red;
+  	height: 1000px;
+  	width: 2000px;
+}
+
+.Electronics {
+  	background-color: green;
+  	height: 800px; 
+  	width: 1500px; 
+}
+
+.shoes {
+  	background-color: green;
+  	height: 1000px;
+  	width: 2000px;
+}
+
+.header {
+  	background-color: LightGray;
+  	width:100%;
+  	height:120px; 
+  
+}

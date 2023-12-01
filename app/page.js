@@ -2,11 +2,13 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.css"; 
 import Navbaar from "./navbaar";
+import Header from "./Header"
 import "./globals.css";
 const Page = () => {
   return (
     <>
       <Navbaar/><br/>
+      <Header/><br/>
     </>
   );
 };
