@@ -1,14 +1,17 @@
-const App=()=>{
-	return(
-	<>
-	<h2> pooja binjwa</h2>
-	<h1 >hello world </h1>
-	
-	</>
-	)
+"use client";
+import React from "react";
+import "bootstrap/dist/css/bootstrap.css"; 
+import Navbaar from "./navbaar";
+import "./globals.css";
+const Page = () => {
+  return (
+    <>
+      <Navbaar/><br/>
+    </>
+  );
 };
-export default App;	
-	
+export default Page;
+
 	
 	
 	
